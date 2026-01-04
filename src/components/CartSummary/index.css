@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.total-amt-outter-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.amt {
+  font-weight: bold;
+  font-size: 32px;
+}
+.amt-para {
+  font-size: 25px;
+  margin: 6px 0;
+}
+.Checkout-btn {
+  width: 100%;
+  height: 34px;
+  background-color: #0b69ff;
+  padding: 10px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+}
